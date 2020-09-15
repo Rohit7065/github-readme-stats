@@ -221,6 +221,11 @@ const themes = {
     text_color: "ffffff",
     bg_color: "20232a",
   },
+  special: {
+    title_color: "61dafb",
+    icon_color: "E1E1E6",
+    text_color: "38bdae",
+    bg_color: "FF79C6",
 };
 
 module.exports = themes;
